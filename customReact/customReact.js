@@ -1,0 +1,1 @@
+const mainContiner = document.querySelector('#root')
